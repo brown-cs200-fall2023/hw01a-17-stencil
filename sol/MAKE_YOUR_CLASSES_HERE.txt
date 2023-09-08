@@ -1,0 +1,11 @@
+
+All classes that you create should go in this directory (sol).
+
+You can crate a class in IntelliJ like this:
+ 1. Click on the "sol" package on the left side
+ 2. In the menus at the top, select File > New > Java Class
+ 3. Type the name of the class and press Enter
+
+This will create a class file here that should be set up to work with our stencil.
+
+Please do not submit this file to the autograder--you can even delete it.
